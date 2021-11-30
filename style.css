@@ -1,3 +1,52 @@
+.logo{
+    width: 60px;
+    height: 50px;
+}
+/* Btn design */
+.btn-style{
+    background-color: #64FFDA;
+    color: #000;
+    padding: 10px 20px;
+    border-radius: 30px;
+    text-decoration: none;
+}
+
+.btn-style:hover{
+    background-color: violet;
+    color: white;
+    transition: all 0.3s;
+}
+
+/* Link design */
+.fab{
+    font-size: 1.5rem;
+    padding: 0 10px;
+}
+
+.portfolio-item{
+    background-color: #fff;
+    height: 450px;
+    border-radius: 10px;
+}
+.portfolio-item:hover{
+    background-color: #000;
+    color: #fff;
+    transition: all 0.3s;
+    cursor: pointer;
+}
+
+.fa-facebook-f{
+    font-size: 1.3rem;
+    margin-bottom: 2px;
+}
+
+.portfolio-item .info{
+    padding: 10px;
+}
+.portfolio-item .project-pic{
+    height: 230px;
+}
+/* Image size setup */
 .img1{
     width: 300px;
     height: 300px;
@@ -18,6 +67,3 @@
     height: 80px;
 }
 
-nav{
-    background-color: #F8F9FA;
-}
