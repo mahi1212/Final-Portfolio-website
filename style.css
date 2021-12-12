@@ -24,15 +24,10 @@
 }
 
 .portfolio-item{
-    background-color: #fff;
-    height: 450px;
-    border-radius: 10px;
-}
-.portfolio-item:hover{
     background-color: #000;
     color: #fff;
-    transition: all 0.3s;
-    cursor: pointer;
+    height: 450px;
+    border-radius: 10px;
 }
 
 .fa-facebook-f{
